@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mallikarjuna 👋</h1>
 
 <p align="center">
-  <em>Building open-source, AI-assisted tooling for semiconductor design.</em>
+  <em>Open-source EDA &times; AI for chip design &mdash; graph-native, local-first tools for STA, GPU-parallelism, and hardware-security analysis.</em>
 </p>
 
 <p align="center">
