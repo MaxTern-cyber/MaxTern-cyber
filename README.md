@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[YOUR-LINKEDIN-SLUG]/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mallikarjuna-a-l/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:almallikarjun55@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://synthesisproject-5ax4oq8wquyjmdgp6z9rvy.streamlit.app/"><img alt="Live demo" src="https://img.shields.io/badge/Live%20demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=MaxTern-cyber&label=Profile%20views&color=4ecdc4&style=for-the-badge">
@@ -19,7 +19,6 @@
 - 🎯 Headline result: **14× theoretical parallel speedup** on a 1278-node 16×16 multiplier (GL0AM-regime, NVIDIA-inspired analysis).
 - 📊 v0.1.0 tagged · 52 tests · CI on Python 3.10 / 3.11 / 3.12 · live Streamlit demo.
 - 🌱 Learning: GNNs for circuit analysis, local-LLM agents (Ollama / Llama-3 / Phi-3), GPU-accelerated logic simulation.
-- 💼 [JOB TITLE -- e.g. "Software Engineering Intern @ Cadence Design Systems" or leave this line out]
 - 📫 Reach me: **almallikarjun55@gmail.com**
 
 ---
